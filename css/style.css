@@ -63,7 +63,7 @@ img {
 }
 
 .navbar a:hover {
-    border-bottom: #28a745 2px solid;
+    border-bottom: #1e7ecc 2px solid;
 }
 
 .navbar ul {
@@ -72,6 +72,15 @@ img {
 
 .navbar .logo {
     font-weight: 400;
+}
+
+.video-logo {
+    width: 4rem;
+    height: 4rem;
+}
+
+.video-logo {
+    opacity: .7;
 }
 
 /* Header */
@@ -128,7 +137,7 @@ img {
 }
 
 .icons i {
-    background-color: #28a745;
+    background-color: #235ce3;
     color: #fff;
     padding: 1rem;
     border-radius: 50%;
@@ -212,7 +221,7 @@ img {
 }
 
 .footer a:hover {
-    color: #28a745;
+    color: #d6caca;
 }
 
 .footer .social>* {
