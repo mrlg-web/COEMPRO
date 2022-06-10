@@ -70,14 +70,14 @@ img {
     display: flex;
 }
 
-.navbar .logo {
+/* .navbar .logo {
     font-weight: 400;
 }
 
 .video-logo {
     width: 4rem;
     height: 4rem;
-}
+} */
 
 .video-logo {
     opacity: .7;
